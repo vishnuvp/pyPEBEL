@@ -22,7 +22,7 @@ setup(
         "setuptools",
         "pyparsing >= 1.5.5",
         "pycrypto >= 2.6",
-        "Charm-Crypto >= 0.42",
+#        "Charm-Crypto >= 0.42",
     ],
     classifiers = [
         "Programming Language :: Python",
